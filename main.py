@@ -1,8 +1,8 @@
-api_key="1bb80f843fb8773111d7041b78178141" //use your own api_key
+api_key="your api key from open weather API" //use your own api_key
 import requests
 from twilio.rest import Client
-account_sid="AC224424ad1403ced3521ff1bee7e08174" //use your own account sid
-auth_token="e84e0071a70fa40e2be19b98f7ba3535" //use your own auth_token   
+account_sid="your account sid from twilio" //use your own account sid
+auth_token="your auth token from twilio" //use your own auth_token   
 MY_LAT=19.075983   //latitude of location you are at
 MY_LNG=72.877655    //longitude of location you are at
 
